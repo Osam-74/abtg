@@ -1,0 +1,5 @@
+{
+  "name": "Bitget Triangular Arbitrage Dashboard",
+  "description": "A real-time dashboard that identifies and displays triangular arbitrage opportunities on Bitget for selected cryptocurrencies.",
+  "requestFramePermissions": []
+}
